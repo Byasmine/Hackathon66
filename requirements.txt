@@ -1,0 +1,12 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+pandas==2.1.4
+openpyxl==3.1.2
+xlrd==2.0.1
+gspread==5.12.4
+google-auth==2.25.2
+openai==1.6.1
+python-dotenv==1.0.0
+requests==2.31.0
+Werkzeug==3.0.1
+gunicorn==21.2.0
